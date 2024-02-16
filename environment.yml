@@ -1,0 +1,7 @@
+name: cookiecuttier-personal
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cookiecutter=1.7.3
+prefix: /home/rivascel/anaconda3/envs/cookiecuttier-personal
